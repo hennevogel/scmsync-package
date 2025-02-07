@@ -10,7 +10,7 @@ BuildRequires: 	ncurses-devel
 BuildRoot:    	%{_tmppath}/%{name}-%{version}-build
 
 %description
-ctris HANS is a colorized, small and flexible Tetris(TM)-clone for the console. Go play!
+ctris is a colorized, small and flexible Tetris(TM)-clone for the console. Go play!
 
 %prep
 %setup -q
