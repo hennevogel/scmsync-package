@@ -1,1 +1,0 @@
-# scmsync-package
